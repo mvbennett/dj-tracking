@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "tailwindcss-rails", "~> 4.4"
+
+gem "esbuild-rails", "~> 0.1.4"
